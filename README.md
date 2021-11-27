@@ -2,7 +2,7 @@
 
 ## Demo Video
 
-***coming soon***
+https://drive.google.com/file/d/1SpBeE83eagE6lljTTvPZkWyqUxaIR4A1/view?usp=sharing
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
