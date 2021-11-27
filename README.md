@@ -23,8 +23,10 @@ I used Roboflow to make my dataset. This includes annotating the data by hand, a
  
 
 Results: 
-* Input: *Check YoloV5-Satellite.ipynb*
-* Output: *Check YoloV5-Satellite.ipynb*
+Input: *Check YoloV5-Satellite.ipynb*
+Output: *Check YoloV5-Satellite.ipynb*
+
+All Predictions: ![](movie.gif)
 
 ##Training:
 
