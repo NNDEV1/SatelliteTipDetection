@@ -15,20 +15,20 @@ Here are some resources I used to build YOLO and learn about it:
 * [Original YOLO paper](https://arxiv.org/abs/1506.02640)
 * [YOLOV5 Docs](https://docs.ultralytics.com/)
 
-##Dataset used:
+## Dataset used:
 
 [https://nexus.spaceapplications.com/repository/raw-km/infuse/infuse-dl-dataset-v0.0.7-rand-eval.tar.gz](https://nexus.spaceapplications.com/repository/raw-km/infuse/infuse-dl-dataset-v0.0.7-rand-eval.tar.gz)
 
 I used Roboflow to make my dataset. This includes annotating the data by hand, applying transformations, and pre-processing the data into YoloV5 form. I could not make the code I used for downloading the dataset in my YoloV5.ipynb notebook public due to privacy issues as well. But you can download the dataset from this repository.
  
 
-Results: 
+## Results: 
 Input: *Check YoloV5-Satellite.ipynb*
 Output: *Check YoloV5-Satellite.ipynb*
 
 All Predictions: ![](movie.gif)
 
-##Training:
+## Training:
 
 I trained both the YoloV3 from scratch and YoloV5 pretrained and the YoloV5 had better performance by far (I cannot release the YoloV3 Satellite dataset as well due to privacy issues):
 
