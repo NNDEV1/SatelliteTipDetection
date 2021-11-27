@@ -52,7 +52,7 @@ class ResidualBlock(nn.Module):
         return x
         
 
-class ScaledPrediction(nn.Module):
+class ScalePrediction(nn.Module):
 
     def __init__(self, in_channels, num_classes):
         super().__init__()
